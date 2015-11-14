@@ -1,0 +1,7 @@
+#Wed Nov 11 13:24:50 CET 2015
+nom=admin
+mdp=admin
+url=jdbc\:sqlite\:database.db
+driver=org.sqlite.JDBC
+base=
+schema=
